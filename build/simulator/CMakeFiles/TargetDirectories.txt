@@ -1,0 +1,3 @@
+C:/Users/Elijah/source/st7789-workspace/st7789-simulator/build/simulator/CMakeFiles/dashboard_sim.dir
+C:/Users/Elijah/source/st7789-workspace/st7789-simulator/build/simulator/CMakeFiles/edit_cache.dir
+C:/Users/Elijah/source/st7789-workspace/st7789-simulator/build/simulator/CMakeFiles/rebuild_cache.dir
